@@ -12,3 +12,4 @@
 - [CA](https://github.com/coltonaubrey)
 - [MB](https://github.com/hammerbromike)
 - [MP](https://github.com/gcsplayne)
+- [JW](https://github.com/jakew7)
